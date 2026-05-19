@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Fays</h1>
+<h1 align="center">Hi 👋, I'm Hikariyon</h1>
 <h3 align="center">A passionate full-stack developer from France</h3>
 
 - 🔭 I’m currently working on /
 
-- 👨‍💻 All of my projects are available at [https://fayslechat.fr](https://fayslechat.fr)
+- 👨‍💻 All of my projects are available at [https://fayslechat.fr](https://hikariyon.fr)
 
 - 📫 How to reach me **contact@fayslechat.fr**
 
