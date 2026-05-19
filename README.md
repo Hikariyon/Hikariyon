@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on /
 
-- 👨‍💻 All of my projects are available at [https://fayslechat.fr](https://hikariyon.fr)
+- 👨‍💻 All of my projects are available at [https://hikariyon.fr](https://hikariyon.fr)
 
-- 📫 How to reach me **contact@fayslechat.fr**
+- 📫 How to reach me **contact@hikariyon.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
